@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public final class ExtractService {
-    private static final String HOST_JSON_PATH = "/Users/pavel_klindziuk/IdeaProjects/ws/src/test/java/resources/";
+    private static final String HOST_JSON_PATH = "/Users/pavel_klindziuk/IdeaProjects/ws/src/test/java/resources/model/";
     private static final String POST_JSON_PATH = HOST_JSON_PATH + "post.json";
     private static final String USER_JSON_PATH = HOST_JSON_PATH + "user.json";
 
